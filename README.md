@@ -33,7 +33,7 @@ The Web App must be hosted somewhere. Hosting it on a GitHub repository is a qui
     {
         "text": "Test web_app",
         "web_app": {
-            "url": "https://david-lor.github.io/telegram-web-app-bot-example.github.io/index.html"
+            "url": "https://david-lor.github.io/telegram-web-app-bot-example/index.html"
         }
     }
     ```
